@@ -1,5 +1,233 @@
 #separator:tab
 #html:true
+"singiel
+
+"	
+"pracodawca
+
+"	
+"pochodzenie
+
+"	
+"wykształcenie
+
+"	
+"robić szkolenie
+
+"	
+"zawód
+
+"	
+"uczelnia, szkoła wyższa
+
+"	
+"uniwersytet
+
+"	
+"praca dorywcza
+
+"	
+"staż
+
+"	
+"szkoła
+
+"	
+"posada
+
+"	
+"pracować jako kelnerka
+
+"	
+"pracować dla Samsunga
+
+"	
+"wiek
+
+"	
+"stan cywilny
+
+"	
+"dziecko
+
+"	
+"mieszkać (żyć) samemu
+
+"	
+"mieszkać razem
+
+"	
+"z moim partnerem
+
+"	
+"z moją partnerką
+
+"	
+"mieszkać w Warszawie
+
+"	
+"studiować medycynę
+
+"	
+"pracować dorywczo jako kelnerka
+
+"	
+"bezrobotny
+
+"	
+"rozwiedziony
+
+"	
+"żonaty, zamężna
+
+"	
+"sądzić, uważać (g_)
+
+"	
+"poprawny
+
+"	
+"niepoprawny
+
+"	
+"obecnie, aktualnie, na teraz, jak na razie
+
+"	
+"zawodowo
+
+"	
+"Jestem lekarzem z zawodu.
+
+"	
+"architekt
+
+"	
+"fryzjer
+
+"	
+"inżynier
+
+"	
+"dziennikarz
+
+"	
+"kelner
+
+"	
+"pielęgniarka (nicht: Krankenpflegerin)
+
+"	
+"pielęgniarz
+
+"	
+"nauczyciel
+
+"	
+"mechanik
+
+"	
+"student
+
+"	
+"aktor
+
+"	
+"uczeń
+
+"	
+"sekretarz
+
+"	
+"sprzedawca
+
+"	
+"rodzina
+
+"	
+"ojciec
+
+"	
+"matka
+
+"	
+"rodzice (para osób)
+
+"	
+"rodzic (pojedyncza osoba)
+
+"	
+"syn
+
+"	
+"córka
+
+"	
+"dziadek
+
+"	
+"babcia
+
+"	
+"dziadek oraz babcia
+
+"	
+"wnuczka
+
+"	
+"wnuk
+
+"	
+"brat
+
+"	
+"siostra
+
+"	
+"rodzeństwo
+
+"	
+"brat lub siostra
+
+"	
+"mężczyzna, mąż
+
+"	
+"mąż (e_)
+
+"	
+"kobieta, żona
+
+"	
+"żona (e_)
+
+"	
+"związek małżeński
+
+"	
+"małżeństwo (para osób)
+
+"	
+"język (np. polski)
+
+"	
+"przyjaciel
+
+"	
+"przyjaciółka
+
+"	
+"kolega
+
+"	
+"koleżanka
+
+"	
+"partner
+
+"	
+"partnerka
+
+"	
 "Wielka Brytania
 
 "	
