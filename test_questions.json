@@ -1,7 +1,7 @@
 "deck_name" = "Example"
 "model" = "Curie Basic Card"
 
-[
+"questions" = [
     {
         "question_number": "1"
         "question_type": "Basic"
