@@ -1,9 +1,16 @@
+"deck_name" = "Example"
+"model" = "Curie Basic Card"
+
 [
     {
+        "question_number": "1"
+        "question_type": "Basic"
         "question": "What is the capital of Germany?",
         "answer": "Berlin"
     },
     {
+        "question_number": "2"
+        "question_type": "Basic"
         "question": "What is 5 + 3?",
         "answer": "8"
     }
